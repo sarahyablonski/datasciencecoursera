@@ -1,8 +1,7 @@
 ---
-title: "HelloWorld.md"
-author: "Sarah Yablonski"
-date: "12/16/2020"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## This is a  markdown file
